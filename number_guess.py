@@ -1,5 +1,6 @@
 import random
 import time
+# Number guessing game with Easy to hard level
 
 def numguess():
      count = 0
