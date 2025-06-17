@@ -1,4 +1,5 @@
 import random
+# Rock paper scissor game
 
 player_win =0
 computer_win = 0
